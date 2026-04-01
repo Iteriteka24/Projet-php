@@ -1,6 +1,7 @@
 # Projet-php
-Projet de remplissage d'identité
+Projet de remplissage d'identité.
+
 Le groupe est composé par :
-  => ITERITEKA Noël Néri
-  => IRAKOZE Tonny Belly
-  => KAZE Kim Teddy
+  => ITERITEKA Noël Néri GL
+  => IRAKOZE Tonny Belly RT
+  => KAZE Kim Teddy RT
